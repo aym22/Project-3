@@ -2,12 +2,12 @@
 
 [![Production Workflow](https://github.com/aym22/Project-3/actions/workflows/prod.yml/badge.svg)]
 
-* [Production Deployment](https://github.com/aym22/Project-3/actions/workflows/prod.yml)
+* [Production Deployment](https://aymproject3-prod.herokuapp.com/)
 
 
 [![Development Workflow](https://github.com/aym22/Project-3/actions/workflows/dev.yml/badge.svg)]
 
-* [Developmental Deployment](https://github.com/aym22/Project-3/actions/workflows/dev.yml)
+* [Developmental Deployment](https://aymproject3-dev.herokuapp.com/)
 
 ## Setting up CI/CD
 
